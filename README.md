@@ -1,10 +1,10 @@
 # Homework 4 - Steve and Linlin's Enclosure<br>
 <img src="images/assembled.jpg"/>
-Team Members:<br>
+<b>Team Members:</b><br>
 Linlin Cai (the Expert)<br>
-Steve Trush (the Noob)<br>
+Steve Trush (the Noob)<br><br>
 
-Using Fusion 360, we designed this elegant pink box to hold our PicoPro microcontroller and our IDD development HAT. The boards are screwed into the bottom of the box and openings allow for USB cables, speaker out, and various ribbon cables. The openings also allow for ventilation. An outer cover performs two functions: it keeps the box closed (using a spring-loaded pushpin for quick access to the development board) with the need of tools like a screwdriver and adds to sleek look.<br>  
+Using Fusion 360, we designed this elegant pink box to hold our PicoPro microcontroller and our IDD development HAT. The boards are screwed into the bottom of the box and openings allow for USB cables, speaker out, and various ribbon cables. The openings also allow for ventilation. An outer cover keeps the box closed (using a spring-loaded pushpin for quick access to the development board) without the need for a screwdriver, but secure enough so it doesn fall apart. The cover makes the enclosure more robust while also adding a sleek look.<br>  
 
 <b>Design Files:</b>
 <a href="http://a360.co/2fSzQgX">Public Fusion360 Shared Link</a><br>
@@ -25,14 +25,19 @@ We measured out the dimensions of the Pico Pro and constructed a 3D model of the
 
 We then performed our first iteration of printing and learned that our snap fit design was not suitable for 3D printing using the PLA plastic. material was not suitable for 
 
-<b>Failed first print...</b><br>
+<b>Our failed first design. :( </b><br>
 <img src="images/first_attempt.jpg"/><br>
 
-Second attempt (Success!):<br>
-<img src="images/bottom.jpg"/> The bottom with screws for mounting the microcontroller.
-<img src="images/cables_plugged.jpg"/> Yes! The holes line up and there's enough room for the cables!
-<img src="images/three_pieces.jpg"/> Everything else looks like it printed without errors.
-<img src="images/assembled.jpg"/> The pieces go together - this 3D modeling stuff actually works!
-<img src="images/usb_zoom.jpg"/> The USB cable fits just fine!
+Our successful second attempt.:)<br>
+The bottom with screws for mounting the microcontroller.<br>
+<img src="images/bottom.jpg"/><br> 
+Yes! The holes line up and there's enough room for the cables!<br>
+<img src="images/cables_plugged.jpg"/><br> 
+Everything else looks like it printed without errors. <br>
+<img src="images/three_pieces.jpg"/> <br>
+The pieces go together - this 3D modeling stuff actually works! <br>
+<img src="images/assembled.jpg"/><br>
+...and the USB cable fits just fine!
+<img src="images/usb_zoom.jpg"/> 
 
 
