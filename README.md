@@ -9,7 +9,7 @@ Using Fusion 360, we designed this elegant pink box to hold our PicoPro microcon
 <b>Design Files:</b>
 <a href="http://a360.co/2fSzQgX">Public Fusion360 Shared Link</a><br>
 
-5 Components:<br>
+There are 5 components:<br>
 Enclosure Top<br>
 Enclosure Bottom<br>
 Enclosure Cover<br>
@@ -23,10 +23,11 @@ We begun our design process by deciding what we wanted our enclosure to be able 
 
 We measured out the dimensions of the Pico Pro and constructed a 3D model of the board (with enough detail for incoming wire connections, and to accomodate the dev HAT and breadboard wires) in Fusion 360 to use the top-down design methodology. From there we constructed the outer shell of the enclosure making sure to cut wide enough holes for the connectors. We then dimensioned the outer cover to fit around inner box giving it a 1 mm extra space to make sure that the inner enclosure would fit after printing.
 
-We then performed our first iteration of printing and learned that our snap fit design was not suitable for 3D printing using the PLA plastic. material was not suitable for 
-
+We then performed our first iteration of printing and learned that our snap fit design was not suitable for 3D printing using the PLA plastic. The interlocking snaps did not have the flexibility or durability to prevent breaking after multiple times opening the case.<br>   
 <b>Our failed first design. :( </b><br>
 <img src="images/first_attempt.jpg"/><br>
+
+Instead of trying to re-engineer the snapping pieces, we chose to redesign the box. This included sketching out a new system with a spring-loaded pin that would fit inside the wall of the top and bottom of the interior shell. When the cover was on, the smaller diameter tip of the pin would extrude through a catch to keep the box in place. Using the assembly function of Fusion360, we were able to join each our new pieces together to ensure that they fit.
 
 Our successful second attempt.:)<br>
 The bottom with screws for mounting the microcontroller.<br>
@@ -37,7 +38,12 @@ Everything else looks like it printed without errors. <br>
 <img src="images/three_pieces.jpg"/> <br>
 The pieces go together - this 3D modeling stuff actually works! <br>
 <img src="images/assembled.jpg"/><br>
-...and the USB cable fits just fine!
-<img src="images/usb_zoom.jpg"/> 
+...and the USB cable fits just fine!<br>
+<img src="images/usb_zoom.jpg"/> <br><br>
+
+Does it pass the shake test? Yes!<br>
+<img src="images/shaking.gif"/>
+
+
 
 
