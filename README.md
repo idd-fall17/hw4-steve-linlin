@@ -1,22 +1,23 @@
-# Homework 4 - Steve and Linlin's Enclosure
-Team Members:
-Linlin Cai (the Expert)
-Steve Trush (the Noob)
+# Homework 4 - Steve and Linlin's Enclosure<br>
+<img src="images/assembled.jpg"/>
+Team Members:<br>
+Linlin Cai (the Expert)<br>
+Steve Trush (the Noob)<br>
 
-Using Fusion 360, we designed this elegant pink box to hold our PicoPro microcontroller and our IDD development HAT. The boards are screwed into the bottom of the box and openings allow for USB cables, speaker out, and various ribbon cables. The openings also allow for ventilation. An outer cover performs two functions: it keeps the box closed (using a spring-loaded pushpin for quick access to the development board) with the need of tools like a screwdriver and adds to sleek look.  
+Using Fusion 360, we designed this elegant pink box to hold our PicoPro microcontroller and our IDD development HAT. The boards are screwed into the bottom of the box and openings allow for USB cables, speaker out, and various ribbon cables. The openings also allow for ventilation. An outer cover performs two functions: it keeps the box closed (using a spring-loaded pushpin for quick access to the development board) with the need of tools like a screwdriver and adds to sleek look.<br>  
 
 <b>Design Files:</b>
-http://a360.co/2fSzQgX
+<a href="http://a360.co/2fSzQgX">Public Fusion360 Shared Link</a><br>
 
-5 Components:
-Enclosure Top
-Enclosure Bottom
-Enclosure Cover
-Pin
-PicoPro model
+5 Components:<br>
+Enclosure Top<br>
+Enclosure Bottom<br>
+Enclosure Cover<br>
+Pin<br>
+PicoPro model<br>
 
 
-Process and strategy to model the different parts and to fit them together:
+<b>Process and strategy to model the different parts and to fit them together:</b>
 
 We begun our design process by deciding what we wanted our enclosure to be able to accomodate. We decided to make our case without a display, but able to fit a HAT and breadboard cables. Additionally, we wanted to have a design where the box could be opened with using a screwdriver. We initially decided to try to design a top and bottom that could snap together. Here are our initial sketches:
 
@@ -24,11 +25,14 @@ We measured out the dimensions of the Pico Pro and constructed a 3D model of the
 
 We then performed our first iteration of printing and learned that our snap fit design was not suitable for 3D printing using the PLA plastic. material was not suitable for 
 
+<b>Failed first print...</b><br>
+<img src="images/first_attempt.jpg"/><br>
 
-
-Include pictures of the printed enclosure. 
-
-
-At a minimum show the two halves separate, two halves assembled, and a closeup of the usb connector passing through the enclosure.
+Second attempt (Success!):<br>
+<img src="images/bottom.jpg"/> The bottom with screws for mounting the microcontroller.
+<img src="images/cables_plugged.jpg"/> Yes! The holes line up and there's enough room for the cables!
+<img src="images/three_pieces.jpg"/> Everything else looks like it printed without errors.
+<img src="images/assembled.jpg"/> The pieces go together - this 3D modeling stuff actually works!
+<img src="images/usb_zoom.jpg"/> The USB cable fits just fine!
 
 
