@@ -11,19 +11,18 @@ Using Fusion 360, we designed this elegant pink box to hold our PicoPro microcon
 
 There are 4 components with drawings:<br>
 Enclosure Top<br> <a href="http://a360.co/2yyZRgX">Drawing Fusion360 Shared Link</a><br>
+<img src="images/drawing_top.png"><br>
 Enclosure Bottom<br> <a href="http://a360.co/2z8FDr2">Drawing Fusion360 Shared Link</a><br>
+<img src="images/drawing_bottom.png"><br>
 Enclosure Cover<br> <a href="http://a360.co/2z9tQJm">Drawing Fusion360 Shared Link</a><br>
+<img src="images/drawing_cover.png"><br>
 Pin<br> <a href="http://a360.co/2yS3FWo">Drawing Fusion360 Shared Link</a><br>
-
-Assembly<br> <a href="http://a360.co/2z8Fhkc">Drawing Fusion360 Shared Link</a><br>
-
+Total Assembly<br> <a href="http://a360.co/2z8Fhkc">Drawing Fusion360 Shared Link</a><br>
 
 
 <b>Process and strategy to model the different parts and to fit them together:</b>
 
-We begun our design process by deciding what we wanted our enclosure to be able to accomodate. We decided to make our case without a display, but able to fit a HAT and breadboard cables. Additionally, we wanted to have a design where the box could be opened with using a screwdriver. We initially decided to try to design a top and bottom that could snap together. Here are our initial sketches:
-
-We measured out the dimensions of the Pico Pro and constructed a 3D model of the board (with enough detail for incoming wire connections, and to accomodate the dev HAT and breadboard wires) in Fusion 360 to use the top-down design methodology. From there we constructed the outer shell of the enclosure making sure to cut wide enough holes for the connectors. We then dimensioned the outer cover to fit around inner box giving it a 1 mm extra space to make sure that the inner enclosure would fit after printing.
+We begun our design process by deciding what we wanted our enclosure to be able to accomodate. We decided to make our case without a display, but able to fit a HAT and breadboard cables. Additionally, we wanted to have a design where the box could be opened with using a screwdriver. We initially decided to try to design a top and bottom that could snap together. We measured out the dimensions of the Pico Pro and constructed a 3D model of the board (with enough detail for incoming wire connections, and to accomodate the dev HAT and breadboard wires) in Fusion 360 to use the top-down design methodology. From there we constructed the outer shell of the enclosure making sure to cut wide enough holes for the connectors. We then dimensioned the outer cover to fit around inner box giving it a 1 mm extra space to make sure that the inner enclosure would fit after printing.
 
 We then performed our first iteration of printing and learned that our snap fit design was not suitable for 3D printing using the PLA plastic. The interlocking snaps did not have the flexibility or durability to prevent breaking after multiple times opening the case.<br>   
 <b>Our failed first design. :( </b><br>
