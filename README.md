@@ -7,14 +7,16 @@ Steve Trush (the Noob)<br><br>
 Using Fusion 360, we designed this elegant pink box to hold our PicoPro microcontroller and our IDD development HAT. The boards are screwed into the bottom of the box and openings allow for USB cables, speaker out, and various ribbon cables. The openings also allow for ventilation. An outer cover keeps the box closed (using a spring-loaded pushpin for quick access to the development board) without the need for a screwdriver, but secure enough so it doesn't fall apart. The cover makes the enclosure more robust while also adding a sleek look.<br>  
 
 <b>Design Files:</b>
-<a href="http://a360.co/2fSzQgX">Public Fusion360 Shared Link</a><br>
+<a href="http://a360.co/2fX81Eu">Public Fusion360 Shared Link</a><br>
 
-There are 5 components:<br>
-Enclosure Top<br>
-Enclosure Bottom<br>
-Enclosure Cover<br>
-Pin<br>
-PicoPro model<br>
+There are 4 components with drawings:<br>
+Enclosure Top<br> <a href="http://a360.co/2yyZRgX">Drawing Fusion360 Shared Link</a><br>
+Enclosure Bottom<br> <a href="http://a360.co/2z8FDr2">Drawing Fusion360 Shared Link</a><br>
+Enclosure Cover<br> <a href="http://a360.co/2z9tQJm">Drawing Fusion360 Shared Link</a><br>
+Pin<br> <a href="http://a360.co/2yS3FWo">Drawing Fusion360 Shared Link</a><br>
+
+Assembly<br> <a href="http://a360.co/2z8Fhkc">Drawing Fusion360 Shared Link</a><br>
+
 
 
 <b>Process and strategy to model the different parts and to fit them together:</b>
